@@ -25,12 +25,15 @@ Each folder covers a specific concept of the Go programming language. The folder
 10. [10-structs](./10-structs) 
 11. [11-arrays_slices](./11-arrays_slices) 
 12. [12-maps](./12-maps) 
-13. [13-interfaces](./13-interfaces)  
-14. [14-error-handling](./14-error-handling)  
-15. [15-packages](./15-packages)  
-16. [16-concurrency](./16-concurrency)   
-17. [17-file-handling](./17-file-handling)   
-18. [18-json](./18-json) 
+13. [13-strings_runes](./13-strings_runes)  
+14. [14-adv_struct](./14-adv_struct)  
+15. [15-adv_func](./15-adv_func)  
+16. [16-error_handling](./16-error_handling)   
+17. [17-interfaces](./17-interfaces)   
+18. [18-goroutines](./18-goroutines)
+19. [19-wait_groups](./19-wait_groups)
+20. [20-mutexes](./20-mutexes)
+21. [21-channels](./21-channels)
 
 > 📌 *Add more folders and update this list as the repo evolves.*
 
