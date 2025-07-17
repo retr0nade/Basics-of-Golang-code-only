@@ -35,7 +35,7 @@ Each folder covers a specific concept of the Go programming language. The folder
 20. [20-mutexes](./20-mutexes)
 21. [21-channels](./21-channels)
 
-> 📌 *Add more folders and update this list as the repo evolves.*
+> 📌 More coming soon!!
 
 ---
 
